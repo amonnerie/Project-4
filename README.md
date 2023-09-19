@@ -5,6 +5,7 @@ By Ginger Francione, Joan Montilla, Omar Hadi, and Andrea Monnerie
 DATA SOURCE from Kaggle: https://www.kaggle.com/datasets/nicholasjhana/energy-consumption-generation-prices-and-weather?select=energy_dataset.csv
 
 Google slides: https://docs.google.com/presentation/d/1QCjKRqpy0dGl5xraQjm-LX3O7kyIpQxmvOhClCFGCc0/edit?usp=sharing
+
 Tableau Public: https://public.tableau.com/app/profile/andrea.monnerie/viz/Project4_16945501784050/pricevsloadbytime
 
 ## Summary
