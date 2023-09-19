@@ -1,4 +1,4 @@
-# Project-4
+# Project-4: Energy Consumption Price Prediction
 By Ginger Francione, Joan Montilla, Omar Hadi, and Andrea Monnerie
 
 ## Links
