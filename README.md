@@ -21,8 +21,16 @@ To optimized the model we decided to keep the rows with at least one columns of 
 
 If the government or electrical company wants comsumers to use more renewable energy, there are several factors that is needed to consider. Pricing and weather seem to be major contributors for people to use renewable energy. However with the demand of energy increase in the from summer to winter, there needs to be more source of energy such as constructing more wind turbine generators and more hydropower plants especially the latter since this is not as influenced by the weather.  
 
-### DEMO DAY
+# DEMO DAY
 Andrea Monnerie
+
+## Additional Links for Demo Day
+
+Additional Visualizations in Tableau: https://public.tableau.com/app/profile/andrea.monnerie/viz/Project4_DEMO_DAY/Renewablecomparison?publish=yes
+
+Google Slides: https://docs.google.com/presentation/d/1YDHsKLV2V0d-zaDaw6JoAk_g_7bMbeXvMSzTG_hZYLc/edit?usp=sharing
+
+## Changes for Demo Day
 
 There are significant changes in the project for Demo Day. The Machine Learning model is to predict the energy consumption (amount of nonrenewable and renewable energy) by price, weather, etc. Essentially I switched the independent and dependent variables.
 
