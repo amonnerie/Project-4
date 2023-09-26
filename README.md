@@ -20,3 +20,10 @@ This project used XGBoostRegressor as the tool to make the prediction model. The
 To optimized the model we decided to keep the rows with at least one columns of nulls. This improved the model by about +0.002%.
 
 If the government or electrical company wants comsumers to use more renewable energy, there are several factors that is needed to consider. Pricing and weather seem to be major contributors for people to use renewable energy. However with the demand of energy increase in the from summer to winter, there needs to be more source of energy such as constructing more wind turbine generators and more hydropower plants especially the latter since this is not as influenced by the weather.  
+
+### DEMO DAY
+Andrea Monnerie
+
+There are significant changes in the project for Demo Day. The Machine Learning model is to predict the energy consumption (amount of nonrenewable and renewable energy) by price, weather, etc. Essentially I switched the independent and dependent variables.
+
+This new model is 82.64% accurate. This model is good to predict consumers' habits for consuming energy by price, weather, and load. For this model having more data of the consumers such as the budget of companies, amount of solar panels, salaries, etc.. This would increase the accuracy of the model.
